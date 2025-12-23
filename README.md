@@ -15,7 +15,7 @@ sales performance and business KPIs.
 - DAX
 
 📸 Dashboard Preview
-![Dashboard](powebi_dashboard.jpeg)
+![Dashboard](powerbi_dashboard.jpeg)
 
 📁 Files
 - `.pbix` – Power BI dashboard file
